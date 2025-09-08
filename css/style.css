@@ -547,16 +547,16 @@ body {
   transform: translateY(-1.5rem) scale(1.03);
 }
 .feature-box .icon-snorkel {
-  background-image: url(../../img/icons/snorkel.png);
+  background-image: url(../img/icons/snorkel.png);
 }
 .feature-box .icon-sunbed {
-  background-image: url(../../img/icons/sunbed.png);
+  background-image: url(../img/icons/sunbed.png);
 }
 .feature-box .icon-ship {
-  background-image: url(../../img/icons/ship.png);
+  background-image: url(../img/icons/ship.png);
 }
 .feature-box .icon-laugh {
-  background-image: url(../../img/icons/laugh.png);
+  background-image: url(../img/icons/laugh.png);
 }
 
 .contact__group:not(:last-child) {
