@@ -91,7 +91,6 @@ If you're ready to enjoy the best of Key West, this is one of the best bachelor 
       "Bring your own drinks and snacks (Our coolers are iced down and ready so you can toast your way through the trip)",
       "Pick your adventure pace (Whether you’re snorkeling with marine life or just soaking up the sun, it’s totally your call)",
       "Roomy, relaxed, and totally customizable (Our tiki boats fit your group’s style—laid-back, lively, or somewhere in between)",
-      "Make waves your way (From mellow moments to high-energy fun, we’ve got a charter that fits your celebration perfectly)",
     ],
   },
   {
