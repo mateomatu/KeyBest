@@ -67,11 +67,12 @@ Please note that departure times change with the seasons, so we’ll confirm the
     description: `Get ready for one of the most thrilling ways to explore Key West! This 90-minute guided Jet Ski tour circles the entire island—about 26–28 miles—offering a mix of high-speed excitement and scenic discovery. You’ll cruise past landmarks like the Navy base, cruise ship docks, sandbars, and remote mangroves while soaking up the sun and sea spray. 
 `,
     items: [
-      "Five scenic stops to catch your breath, snap photos, and learn fun local history",
-      `20’ of free ride time to go full throttle or float in paradise`,
-      "Experienced local guides who lead the way and ensure safety",
-      "All equipment included, plus safety briefing and orientation",
-      "Freshwater showers available after the ride",
+      "Arrive 1 hour prior if taking the Boater Safety Course",
+      `Arrive 30 minutes prior if no test is required`,
+      "Complete your waivers online",
+      "Drivers born before 1988 do not require a boater’s license or safety test",
+      "All drivers must have a government-issued photo ID to check in",
+      "All drivers born in 1988 or later must present a boater’s license or take Florida’s Boater’s Safety Course",
     ],
     link: "https://fareharbor.com/embeds/book/barefootbillyskw/items/102691/?ref=ASN-keybest&schedule-uuid=d5703a7d-be90-46bd-b5b0-09398c0b16eb&asn=keybest&full-items=yes&flow=no",
   },
