@@ -101,7 +101,7 @@ If you're ready to enjoy the best of Key West, this is one of the best bachelor 
     slogan: "Have fun!",
     description:
       "Double scooter rentals are perfect for beautiful memories with your loved ones! On the Island with a friend or a family member? A double scooter from Bone Island Rentals kindles long-lasting memories for you and your company. This package comes with a minimum amount of $65 to $225. Like the single scooter, this rental is not suitable for inexperienced individuals and individuals younger than 18.",
-    link: "https://fareharbor.com/embeds/script/calendar/boneislandrentals/?fallback=simple&ref=Key%20Best%20-%20Affiliate&sheet-uuid=366ae0bc-fb58-4fc2-a31c-855790dc24f4&asn=keybest&full-items=yes&flow=698755",
+    link: "https://fareharbor.com/embeds/book/boneislandrentals/?sheet-uuid=366ae0bc-fb58-4fc2-a31c-855790dc24f4&asn=keybest&full-items=yes&flow=553909",
   },
   {
     id: 6,
@@ -121,7 +121,7 @@ If you're ready to enjoy the best of Key West, this is one of the best bachelor 
     slogan: "Chill & Play",
     description: `Experience the island’s stunning scenery and landmarks like never before in our comfortable and stylish golf carts, designed for groups of up to four or six passengers. Our tour takes you on an unforgettable journey through the streets of Key West, allowing you to fully immerse yourself in the island’s rich culture and history.`,
     items: ["Ages +21 - Explore Key West at your leisure!"],
-    link: "https://fareharbor.com/embeds/script/calendar/boneislandrentals/?fallback=simple&ref=Key%20Best%20-%20Affiliate&sheet-uuid=366ae0bc-fb58-4fc2-a31c-855790dc24f4&asn=keybest&full-items=yes&flow=1012728",
+    link: "https://fareharbor.com/embeds/book/boneislandrentals/?sheet-uuid=366ae0bc-fb58-4fc2-a31c-855790dc24f4&asn=keybest&full-items=yes&flow=553909",
   },
   {
     id: 8,
